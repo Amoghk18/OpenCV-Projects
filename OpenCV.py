@@ -286,4 +286,4 @@ while True:
     if cv2.waitKey(1) == ord("q"):
         break """
 
-########################### End of Learning, Now go and apply this MF #####################################
+########################### End of Learning, Now go and apply this. Happy Learning #####################################
